@@ -4,7 +4,7 @@
   "port": 8080,
   "features": ["base"],
   "settings": {
-    "theme": "dark",
-    "language": "fr"
+    "language": "en",
+    "theme": "dark"
   }
 }
