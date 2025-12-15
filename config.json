@@ -2,7 +2,7 @@
   "appName": "SchoolApp",
   "version": "1.0.0",
   "port": 3000,
-  "features": [],
+  "features": [ "login"],
   "settings": {
     "theme": "light",
     "language": "it"
