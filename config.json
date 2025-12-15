@@ -1,10 +1,10 @@
 {
   "appName": "SchoolApp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "port": 8000,
-  "features": [],
+  "features": ["base"],
   "settings": {
-    "theme": "light",
-    "language": "it"
+    "theme": "dark",
+    "language": "fr"
   }
 }
